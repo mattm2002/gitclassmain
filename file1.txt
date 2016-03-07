@@ -1,1 +1,2 @@
-"Hello ther my friends"
+"Hello there my friends"
+Edited on GitHub
